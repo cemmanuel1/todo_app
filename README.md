@@ -7,7 +7,7 @@ Todo app that allows you to create lists and tasks.
 #### About its Development
 Built with Ruby on Rails & Javascript.
 
-Unit and integration testing with Rspec and Capybaray
+Unit and integration testing with Rspec and Capybara
 
 
 #### Screenshot
