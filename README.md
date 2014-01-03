@@ -10,11 +10,15 @@ Built with Ruby on Rails & Javascript.
 Unit and integration testing with Rspec and Capybaray
 
 
+#### Screenshot
+![alt text](https://s3-us-west-1.amazonaws.com/githubthumbs/TodoAppcropped.jpg "todo screenshot")
+
+
+#### [Live Demo](http://intense-plateau-7287.herokuapp.com/)
+
 #### To Run
 In Terminal run:
 
 bundle install
 
 rails s puma
-
-
