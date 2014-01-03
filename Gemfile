@@ -6,6 +6,7 @@ gem 'jquery-rails'
 gem 'puma'
 gem 'simple_form'
 gem 'turbolinks'
+gem 'newrelic_rpm'
 
 group :test do
   gem 'shoulda'
